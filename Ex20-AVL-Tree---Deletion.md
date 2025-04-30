@@ -25,7 +25,7 @@ node *p;
 if(T==NULL) 
 { 
 return NULL; 
-} 
+}  
 else 
 if(x > T->data) // insert in right subtree 
 { 
